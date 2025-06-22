@@ -5,7 +5,7 @@
 Dashboard em Excel com filtros dinâmicos para análise de vendas de assinaturas Xbox, Minecraft e EA Play. Ideal para acompanhamento gerencial com visão **mensal, trimestral e anual**.
 
 ## 📦 Estrutura do Projeto
-![banner](DashboardXboxExcel.png)
+![banner](DashboardCorrigido.png)
 
 ## 🎯 Objetivo
 
